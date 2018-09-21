@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Sound-Indicated Visual Object Detection for Robotic Exploration
 description: Feng Wang, Di Guo, Huaping Liu*, Junfeng Zhou, Fuchun Sun
-show_downloads: false
+show_downloads: "false"
