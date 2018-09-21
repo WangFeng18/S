@@ -42,11 +42,6 @@ Robots are usually equipped with microphones and cameras to perceive and underst
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-<video id="video" controls="controls" preload="none" width="300" height="300" poster='out_scaled.jpg'>
-      <source id="mp4" src="out_scaled.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
-
 <video id="video" controls="controls" preload="none" width="300" height="300" poster='video--7T50tAIrg_epoch_0_scaled.jpg'>
       <source id="mp4" src="video--7T50tAIrg_epoch_0_scaled.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
